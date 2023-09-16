@@ -1,0 +1,17 @@
+
+.Counter-container {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.Button-style   {
+  background-color: #28a745;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin : 8px;
+  border: none;
+  cursor: pointer;
+}
+
+
